@@ -1,4 +1,3 @@
-'''
 name = "ada loVelace"
 print(name.title())
 print(name.upper())
@@ -14,7 +13,7 @@ print("Hello, " + full_name.title() + "!")
 
 message = "Hello, " + full_name.title() + "!"
 print(message)
-'''
+
 favorite_language = "python 	"
 print(favorite_language)
 print(favorite_language.rstrip())
