@@ -1,3 +1,4 @@
+'''
 name = "ada loVelace"
 print(name.title())
 print(name.upper())
@@ -13,4 +14,10 @@ print("Hello, " + full_name.title() + "!")
 
 message = "Hello, " + full_name.title() + "!"
 print(message)
+'''
+favorite_language = "python 	"
+print(favorite_language)
+print(favorite_language.rstrip())
 
+message = "one of python's strengths is its diverse community." #must use single quote
+print(message)
